@@ -5,7 +5,7 @@ A simple machine-readable list of the 53 men and women California sends to Congr
 * [CSV](./california-house-members.csv)
 * [GeoJSON](./california-house-members.geojson)
 
-Data are accurate as of Nov. 5, 2015 and not guaranteed to update.
+Data are accurate as of Nov. 5, 2015 and not guaranteed to update. Developed as part of the Los Angeles Times' [How much are they worth?](http://static.latimes.com/how-much-are-they-worth/) project. 
 
 ## How to update
 
