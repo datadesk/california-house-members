@@ -12,3 +12,6 @@ and rerun the python command that merges it with the [district boundaries](./201
 ```bash
 $ python merge-csv-to-districts.py
 ```
+
+That will create a new combined GeoJSON file at [california-house-members.geojson](./california-house-members.geojson).
+Commit that and push it to the repository to complete an update.
