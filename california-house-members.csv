@@ -1,0 +1,54 @@
+first_name,last_name,slug,party,hometown,district_number,district_region,gender,date_of_birth
+Darrell,Issa,darrell-issa,R,Vista,49,san-diego-imperial,M,1953-11-01
+Scott,Peters,scott-peters,D,San Diego,52,san-diego-imperial,M,1958-06-17
+Nancy,Pelosi,nancy-pelosi,D,San Francisco,12,bay-area,F,1940-03-26
+Jeff,Denham,jeff-denham,R,Turlock,10,central-valley,M,1967-07-29
+Jackie,Speier,jackie-speier,D,Hillsborough,14,bay-area,F,1950-05-14
+Ami,Bera,ami-bera,D,Elk Grove,7,greater-sacramento,M,1965-03-02
+Jim,Costa,jim-costa,D,Fresno,16,central-valley,M,1952-04-13
+Judy,Chu,judy-chu,D,Monterey Park,27,southern-california,F,1953-07-07
+John,Garamendi,john-garamendi,D,Walnut Grove,3,northern-california,M,1945-01-24
+Ken,Calvert,ken-calvert,R,Corona,42,inland-empire,M,1953-06-08
+Mike,Thompson,mike-thompson,D,St. Helena,5,bay-area,M,1951-01-24
+Juan,Vargas,juan-vargas,D,San Diego,51,san-diego-imperial,M,1961-03-07
+Doug,LaMalfa,doug-lamalfa,R,Richvale,1,northern-california,M,1960-07-02
+Brad,Sherman,brad-sherman,D,Sherman Oaks,30,southern-california,M,1954-10-24
+Anna,Eshoo,anna-eshoo,D,Menlo Park,18,bay-area,F,1942-12-13
+Susan,Davis,susan-davis,D,San Diego ,53,san-diego-imperial,F,1944-04-13
+Sam,Farr,sam-farr,D,Carmel,20,central-coast,M,1941-07-04
+Loretta,Sanchez,loretta-sanchez,D,Santa Ana,46,southern-california,F,1969-01-28
+Zoe,Lofgren,zoe-lofgren,D,San Jose,19,bay-area,F,1947-12-21
+Doris,Matsui,doris-matsui,D,Sacramento,6,greater-sacramento,F,1944-09-25
+Alan,Lowenthal,alan-lowenthal,D,Long Beach,47,southern-california,M,1941-03-08
+Paul,Cook,paul-cook,R,Yucca Valley,8,inland-empire,M,1943-03-03
+Julia,Brownley,julia-brownley,D,Westlake Village,26,southern-california,F,1952-08-28
+Xavier,Becerra,xavier-becerra,D,Los Angeles ,34,southern-california,M,1958-01-26
+Michael,Honda,michael-honda,D,San Jose,17,bay-area,M,1941-06-27
+Grace,Napolitano,grace-napolitano,D,Norwalk,32,southern-california,F,1936-12-04
+Ted,Lieu,ted-lieu,D,Torrance ,33,southern-california,M,1969-03-29
+Adam,Schiff,adam-schiff,D,Burbank ,28,southern-california,M,1960-06-22
+Jerry,McNerney,jerry-mcnerney,D,Stockton,9,central-valley,M,1951-06-18
+Raul,Ruiz,raul-ruiz,D,Palm Desert ,36,inland-empire,M,1972-08-25
+Pete,Aguilar,pete-aguilar,D,Redlands,31,inland-empire,M,1979-06-19
+Mark ,DeSaulnier,mark-desaulnier,D,Concord ,11,bay-area,M,1952-03-31
+Mark,Takano,mark-takano,D,Riverside ,41,inland-empire,M,1960-10-10
+Steve,Knight,steve-knight,R,Lancaster ,25,southern-california,M,1966-12-17
+Devin,Nunes,devin-nunes,R,Tulare,22,central-valley,M,1973-10-01
+Kevin,McCarthy,kevin-mccarthy,R,Bakersfield ,23,central-valley,M,1965-01-26
+Lois,Capps,lois-capps,D,Santa Barbara ,24,central-coast,F,1938-01-10
+Lucille,Roybal-Allard,lucille-roybal-allard,D,Downey,40,southern-california,F,1941-06-12
+Maxine,Waters,maxine-waters,D,Los Angeles,43,southern-california,F,1938-08-15
+Barbara,Lee,barbara-lee,D,Oakland,13,bay-area,F,1946-07-16
+Jared,Huffman,jared-huffman,D,San Rafael,2,northern-california,M,1964-02-18
+Eric,Swalwell,eric-swalwell,D,Dublin,15,bay-area,M,1980-11-16
+Tony,Cardenas,tony-cardenas,D,Los Angeles,29,southern-california,M,1963-03-31
+Linda,Sanchez,linda-sanchez,D,Whittier ,38,southern-california,F,1960-01-07
+Tom,McClintock,tom-mcclintock,R,Elk Grove,4,central-valley,M,1956-07-10
+Karen,Bass,karen-bass,D,Los Angeles ,37,southern-california,F,1953-10-03
+Janice,Hahn,janice-hahn,D,San Pedro,44,southern-california,F,1952-03-30
+Dana,Rohrabacher,dana-rohrabacher,R,Costa Mesa ,48,southern-california,M,1947-06-21
+Ed,Royce,ed-royce,R,Fullerton,39,southern-california,M,1951-10-12
+Duncan,Hunter,duncan-hunter,R,Alpine,50,san-diego-imperial,M,1976-12-07
+Norma,Torres,norma-torres,D,Pomona ,35,inland-empire,F,1965-04-04
+Mimi,Walters,mimi-walters,R,Irvine,45,southern-california,F,1962-05-14
+David,Valadao,david-valadao,R,Hanford,21,central-valley,M,1977-04-14
