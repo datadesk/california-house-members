@@ -7,7 +7,7 @@ import json
 
 if __name__ == "__main__":
     # Paths
-    district_path = "2011-districts.geojson"
+    district_path = "2011-districts-simplified.geojson"
     csv_path = "california-house-members.csv"
     output_path = "california-house-members.geojson"
 
