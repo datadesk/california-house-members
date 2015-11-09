@@ -2,4 +2,4 @@
 
 simplify:
 	rm ./2011-districts-simplified.geojson
-	ogr2ogr -f "GeoJSON" 2011-districts-simplified.geojson 2011-districts.geojson -simplify 10
+	ogr2ogr -f "GeoJSON" 2011-districts-simplified.geojson 2011-districts.geojson -simplify 0.001
