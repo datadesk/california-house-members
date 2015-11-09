@@ -25,4 +25,4 @@ if __name__ == "__main__":
         feature['properties'].update(csv_row)
 
     # Write out the combined file
-    json.dump(district_data, open(output_path, 'w'), indent=4)
+    json.dump(district_data, open(output_path, 'w'))
